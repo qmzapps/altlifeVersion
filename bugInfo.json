@@ -1,6 +1,9 @@
 {
     "version": "78500000",
     "knownBugs": [
-
+        {
+            "id": "bug1",
+            "description": "Test"
+        }
     ]
 }
