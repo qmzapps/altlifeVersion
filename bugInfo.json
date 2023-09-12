@@ -1,9 +1,17 @@
 {
-    "version": "78400000",
+    "version": "78500000",
     "knownBugs": [
         {
             "id": "BUG001",
             "description": "Testing live bug reports"
+        },
+        {
+            "id": "BUG002",
+            "description": "Testing again"
+        },
+        {
+            "id": "BUG003",
+            "description": "And again"
         }
     ]
 }
