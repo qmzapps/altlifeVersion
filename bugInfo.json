@@ -3,7 +3,7 @@
     "knownBugs": [
         {
             "id": "BUG001",
-            "description": "Testing live bug reports",
+            "description": "Testing live bug reports"
         }
     ]
 }
