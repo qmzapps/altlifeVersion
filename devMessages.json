@@ -4,6 +4,11 @@
       "id": 1,
       "title": "Hotfix Incoming!",
       "content": "Testng"
+    },
+    {
+      "id": 2,
+      "title": "New Update",
+      "content": "A new update is on the way: Business Update"
     }
   ]
 }
