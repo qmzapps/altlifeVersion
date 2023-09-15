@@ -1,4 +1,9 @@
 {
   "messages": [
+    {
+      "id": 1,
+      "title": "Testing",
+      "content": "Testing content\nBreak checking.{Tools.Divider()}\n\nTest test test"
+    }
   ]
 }
